@@ -54,7 +54,7 @@
     </Compile>
     <Compile Include="DBController.cs" />
     <Compile Include="FormProvider.cs" />
-    <Compile Include="MainInfo.cs" />
+    <Compile Include="ProductInformation.cs" />
     <Compile Include="MainPage.cs">
       <SubType>Form</SubType>
     </Compile>
